@@ -117,3 +117,8 @@ This is the operating system of the physical computer on which virtual box was i
 -	Guest operating system
 
 This is the operating system that is running inside the virtual machine. Theoretically, virtual box can run any operating system but to achieve near native performance of the guest code on your machine, we had to go through a lot of optimizations that are specific to certain operating systems. So while your favourite operating system may run as a guest, we officially support and optimize for a select few.
+
+Reference 
+https://www.youtube.com/watch?v=Ykt3MeNwORQ
+https://en.wikipedia.org/wiki/Web_server
+https://www.youtube.com/watch?v=-q8Jj4aAWYw
