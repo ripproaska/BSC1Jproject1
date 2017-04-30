@@ -1,8 +1,11 @@
 # BSC1Jproject1
 
-##Project and learning journal 
+Name-Ashish Adhikari   
+ID no -17723
 
-##Computer Architecture 
+Project and learning journal 
+
+Computer Architecture 
 
 The main theme of this project is to successfully run the operating system in the computer using another software known as virtual box. Virtual box is a cross-platform virtualization application it installs on your existing intel or AMD based computers, whether they are running windows, mac, Linux or Solaris operating systems at the same time. So the first system to install is Ubuntu. 
  - So to install the Ubuntu system in virtual box we need to start the new project naming the system Ubuntu. 
